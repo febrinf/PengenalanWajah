@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bea887bf-edd5-4084-abad-59e75503d058" /># PengenalanWajah
+#PengenalanWajah
 ## Face Recognition Research using CNN with Otsu and Adaptive Thresholding
 
 Penelitian ini membahas implementasi sistem pengenalan wajah berbasis *Deep Learning* menggunakan metode **Convolutional Neural Network (CNN)** dengan perbandingan teknik segmentasi citra **Otsu Thresholding** dan **Adaptive Thresholding**. Program dikembangkan untuk menganalisis pengaruh metode preprocessing terhadap tingkat akurasi klasifikasi wajah.
