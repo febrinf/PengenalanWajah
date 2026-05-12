@@ -22,7 +22,7 @@ Penelitian ini bertujuan untuk:
 Dataset yang digunakan dalam penelitian ini dapat diakses melalui link Google Drive berikut:
 
 🔗 **Link Dataset:**
-[Tambahkan Link Google Drive Dataset di Sini]
+[(https://drive.google.com/drive/folders/1xoYz7FYEvZbsdTkI53dEfiMQTD0MX7M2?usp=sharing)]
 
 ## Fitur Program
 
